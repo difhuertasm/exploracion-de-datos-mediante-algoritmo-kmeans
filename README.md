@@ -89,4 +89,7 @@ Clientes con ingresos bajos pero gastos elevados.
 Clientes con perfiles de ahorro moderado.
 
 
+
+
+
 Desarrollado por: Diego Fernando Huertas M.
